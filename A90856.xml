@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers from the Scots quarters, containing the substance of two votes made by the Estates at Edenburgh at their generall meeting this present Septemb. 1646. Concerning their armies marching home, and delivering up their garrisons; as also, concerning the peace and union of the kingdomes: with some other passages concerning the King; and other matters of note. And the taking of Cary Castle, and securing other parts in the north of Scotland by Major-Generall Middleton. Printed and published according to order, and for generall satisfaction.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90856</idno><idno type="EEBO-CITATION">99861676</idno>
+  <idno type="VID">113817</idno>
+  <idno type="EEBO-PROQUEST">2240902122</idno>
+  
+            <idno type="STC">Wing P294</idno>
+            <idno type="STC">Thomason E355_19</idno>
+            <idno type="STC">ESTC R201120</idno>
+            <idno type="PROQUEST">99861676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861676e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113817)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers from the Scots quarters, containing the substance of two votes made by the Estates at Edenburgh at their generall meeting this present Septemb. 1646. Concerning their armies marching home, and delivering up their garrisons; as also, concerning the peace and union of the kingdomes: with some other passages concerning the King; and other matters of note. And the taking of Cary Castle, and securing other parts in the north of Scotland by Major-Generall Middleton. Printed and published according to order, and for generall satisfaction.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649. --  Peace.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113817:1"/>
+            <p>PAPERS FROM THE Scots Quarters, CONTAINING, The substance of two Votes made by the Estates at <hi>Edenburg <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> at their generall Meeting this present Septemb. 1646.</p>
+            <p>CONCERNING Their Armies marching home, and delivering up their Garrisons; As also, concerning, the Peace and Union of the Kingdomes: With some other Passages concerning the King; and other matters of Note.</p>
+            <p>AND <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>king of <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> Castle and securing other Parts in the North of <hi>Scotland</hi> by Major-Generall <hi>Middleton.</hi>
+            </p>
+            <p>
+               <hi>Printed and published according to</hi> Order, <hi>and for generall satisfaction.</hi>
+            </p>
+            <p>LONDON Printed for E. E. Anno Dom. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:113817:2"/>
+            <pb n="1" facs="tcp:113817:2"/>
+            <head>The Copyes of two LETTERS FROM NEW CASTLE.; Published for generall satisfaction.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Noble SIR,</salute>
+                  </opener>
+                  <p>YOurs of the 15. Instant came safe to my hands with the papers inclosed. For news he<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> it is in briefe thus. There are letters come from <hi>Edenbo<g ref="char:EOLhyphen"/>rough,</hi> advertising us that there hath been a long debate by the Estates; (who met at <hi>E<g ref="char:EOLhyphen"/>denborough</hi> Thursday the 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. of this present Sep<g ref="char:EOLhyphen"/>tember, to consider what Instructions and power to give to their Commissioners; to Capitulate with the Parliament of England; And what course to take to preserve the Kings Honour, and to keepe the Covenant of the Kingdoms, and the oath which <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y tooke in Parliament.</p>
+                  <pb n="3" facs="tcp:113817:3"/>
+                  <p>In which they have proceeded thus far, It was first debated, Whethee or no they should adhere to what the Scots Commissioners had agreed with the Parliament of England, And after a long deba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e a<g ref="char:EOLhyphen"/>bout the same came to this Resolution.</p>
+                  <p>
+                     <hi>Resolved upon the Question,</hi> 1 That the Scottish Armie now in England shall march home into the Kingdom of Scotland, and deliver up the Garisons propounded to be delivered up (by the Parliament of England) so soon as the money shall be paid to them, agreed on between the Parliawent of Eng<g ref="char:EOLhyphen"/>land, and the Commissioners of the Parliament of Scotland.</p>
+                  <p>2 That all possible meanes shall bee used to pre<g ref="char:EOLhyphen"/>serve the Union so happily begun between the two Kingdomes.</p>
+                  <p>The King is as merry as ever he was, and looks as well, As concerning the Committee that is here now at present, I shall forbear to write any th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g, and rest</p>
+                  <closer>
+                     <dateline>Newcastle <date>the 24. of Septemb. 1646.</date>
+                     </dateline>
+                     <signed>Your Servant, N. E.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THE Committee of Estates met at Edenburgh on Thutsday Septemb. 17. as I told you was appointed in my last, and have had many long de<g ref="char:EOLhyphen"/>bates allout the King; as also concerning power to be given to their Commissioners with you at Lon<g ref="char:EOLhyphen"/>don for carrying on the capitulation with the Parla<g ref="char:EOLhyphen"/>ment of England, Mony they want. Mai. Gen. Mid<g ref="char:EOLhyphen"/>dleton hath been towards the Veil of Spey in Mur<g ref="char:EOLhyphen"/>rey and secured divers places in those par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s about
+<pb n="2" facs="tcp:113817:3"/> Badgenorth, and Anan S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arschioch, and hath taken in a Castle neer Firth River, called Castle Carie, with some other places towards the Lake. An<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>im fortifies himself, and som<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Gourdons stil op<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e him. Mon<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is said▪ (after he took shipping) met with such troublesome stinking weather, that (as yet) it is not heard what became of him. Divers of his Officers that thought to have p<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with him are returned, and ma<g ref="char:EOLhyphen"/>ny of his other Officers and Souldiers are gone to joyn with the E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Antrim.</p>
+                  <p>Montrill the French Agent is not come hither, neither is be landed any where in Scotland that we can hear of: It is supposed he hath some design to passe through the Parlia<g ref="char:EOLhyphen"/>ments Quarters, or else to go over into Ireland.</p>
+                  <p>For newes here, it is full of the sad groanes of the Coun<g ref="char:EOLhyphen"/>try, because of their long and still continued oppressions, ma<g ref="char:EOLhyphen"/>ny complaints being made both from this County, and also from the Bishoprick and Yorkshire; the Country prote<g ref="char:EOLhyphen"/>sting that they are not able to beare the quarters of the Scots,; the charges of the English, and the burden of the Malignants; all which still continve upon them.</p>
+                  <p>There are many malignants that lye between the Kings Lodgings at Gateside, and use much to that side of the Town about Pandon Gate; some quarter in Redhugh, and Fellin; b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they use not about the To<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of Walker, Wamson, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>gton; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut the Earl of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>even useth meanes to coole them and keepe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them at as far a distance from the Court as conveniently his Excellency can. The Country long to heare t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> generall dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anding of all these Forces, and the Scots going home; to which the Estates at Edenburgh have agreed, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o they have the money first, and are to debate further con<g ref="char:EOLhyphen"/>cerning the King: After which you shall heare further from</p>
+                  <closer>
+                     <dateline>Newcastle <date>the 24. of September 1646.</date>
+                     </dateline>
+                     <signed>Your humble Servant E. A.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="oath">
+            <pb n="4" facs="tcp:113817:4"/>
+            <head>The Oath taken by all the Lords, Ba<g ref="char:EOLhyphen"/>rons, and Burgesses of the Kingdom of Scotland in Parliament</head>
+            <p>
+               <hi>VVEE under subscribers, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every one of us,</hi> do in the presence of Almighty God, promise and vow that in this present Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">
+               <pb n="5" facs="tcp:113817:4"/>1. That we shall faithfully and freely speake, answer, and expresse our selves upon all and every thing, which is, or shall be propounded, so far as we think in our conscience, may conduce to the glory of God, the good and peace of the Church, and state of this Kingdome: And imploy our best endeavours to pro<g ref="char:EOLhyphen"/>mote the same: And shall in no wise advise voice, nor consent to any thing which to our best knowledge, we think not most exp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ient and con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>able thereto.</p>
+            <p n="2">2. That we shall maintaine and desend with our lives, power, and estate, His Majesties royall Person, Honour, and Estate, as is exprest in our nationall <hi>Covenant:</hi> And like<g ref="char:EOLhyphen"/>wise▪
+<pb n="6" facs="tcp:113817:5"/> to the power and priviledges of Par<g ref="char:EOLhyphen"/>liaments, and the lawfull Rights and Li<g ref="char:EOLhyphen"/>berties of the Subjects.</p>
+            <p n="3">3. That we shall by all good meanes and wayes, oppose &amp; endeavour to bring to exact tryall all such as either by force, practise, Councel, plots, conspiracies, or otherwise, have done, or shall do, any thing in prejudice of the purity of Religion, the Lawes, Liberties, and Peace of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="4">4. That we shall in all just and honou<g ref="char:EOLhyphen"/>rable wayes endeavour to preserve union, and peace betwixt the three Kingdoms, Scotland, England, and Ireland.</p>
+            <p n="5">5. That we shall neither for hope, fee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, nor other respect relinquish this vovv and promise.</p>
+            <closer>
+               <signed>Subscribed by all the Members of the PARLIAMENT of Scotland.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
